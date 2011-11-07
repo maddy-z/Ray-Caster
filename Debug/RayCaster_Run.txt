@@ -1,0 +1,4 @@
+./Ray\ Caster.exe -input scene1.txt -size 1000 1000 -output scene1.tga -depth 9 10
+./Ray\ Caster.exe -input scene2.txt -size 1000 1000 -output scene2.tga -depth 8 12
+./Ray\ Caster.exe -input scene3.txt -size 1000 1000 -output scene3.tga -depth 8 12
+./Ray\ Caster.exe -input scene4.txt -size 1000 1000 -output scene4.tga -depth 13 16
